@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /login/
+Disallow: /private/
+Allow: /public/   # Permite accesul la directoare specifice dacă ai unul
+Sitemap: https://www.davidefrim.ro/sitemap.xml
